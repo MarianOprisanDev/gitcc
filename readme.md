@@ -1,2 +1,2 @@
 # Gitcc
-This is a simple app
+Learning git.

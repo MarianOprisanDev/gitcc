@@ -1,0 +1,42 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: #e5e5e5;
+}
+
+.btn {
+    border: none;
+    padding: 5px;
+    background: #a3a3a3;
+}
+
+.btn:hover {
+    background: #c5c5c5;    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.home {
+    margin-left: 10px;
+    float: left;
+}
+
+.login {
+    margin-right: 50px;
+    float: right;
+}
+
+.info p {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.form {
+    text-align: center;
+}
